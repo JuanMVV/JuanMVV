@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Algunas tecnologías :)</h3>
+<h3 align="left">🛠 Algunas tecnologías con las que he trabajado:)</h3>
 
 ###
 
@@ -70,6 +70,3 @@
 
 ###
 
-<h3 align="left">🔥   Mi estado:</h3>
-
-###
